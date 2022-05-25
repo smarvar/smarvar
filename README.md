@@ -13,3 +13,4 @@
 smarvar/smarvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![electronic_gif](https://i.pinimg.com/originals/6d/85/dd/6d85dd84f3b1bc147e41a7e566c27f25.gif)
