@@ -10,6 +10,9 @@
 - 💻 Programming languages C, Python, Matlab. 
 - 🚀 I really like Unmanned Vehicles --> UAV, UVS, etc.
 
+![portada_linkedin2](https://github.com/smarvar/smarvar/assets/58561524/eaf3456f-c8a2-407e-9864-061ae8cd29ee)
+
+
 <!---
 smarvar/smarvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
