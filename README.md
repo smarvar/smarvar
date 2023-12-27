@@ -3,12 +3,11 @@
 ![portada_linkedin2](https://github.com/smarvar/smarvar/assets/58561524/eaf3456f-c8a2-407e-9864-061ae8cd29ee)
 
 - 🎓 B.Sc. in Electronic Engineering - [Universidad de Cundinamarca](https://www.ucundinamarca.edu.co) UdeC - Fusagasugá, Colombia.
-- 📚 Ph.D. Student in Engineering - [Universidad Nacional del sur](https://www.uns.edu.ar) UNS - Bahia Blanca, Argentina.
+- 📚 Ph.D. Student in Engineering - [Universidad Nacional del Sur](https://www.uns.edu.ar) UNS - Bahia Blanca, Argentina.
 - 🔭 Member of the [Imaging Sciences Laboratory](https://imaglabs.org) LCI-UNS.
 - 🔭 Member of the [Instituto Argentino de Oceanografia](https://iado.conicet.gov.ar) IADO - Bahia Blanca Argentina.
-- 👀 I’m interested in machine and deep learning projects about computer vision and point cloud processing. 
+- 👀 I’m interested in Machine and Deep Learning projects about Computer Vision and Point Cloud processing. 
 - 🌱 I'm currently researching methods and algorithms for georeferenced point cloud densification.
-- 💻 Programming languages C, Python, Matlab. 
 - 🚀 I really like Unmanned Vehicles --> UAV, USV, etc.
 
 
