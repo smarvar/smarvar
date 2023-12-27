@@ -1,7 +1,6 @@
-![portada_linkedin2](https://github.com/smarvar/smarvar/assets/58561524/eaf3456f-c8a2-407e-9864-061ae8cd29ee)
-
 <h1 align="center">👋 Hi, I'm Steven Martinez Vargas </h1>
-<h2 align="center"> @smarvar </h2>
+![portada_linkedin2](https://github.com/smarvar/smarvar/assets/58561524/eaf3456f-c8a2-407e-9864-061ae8cd29ee)
+<h2 align="center"> @smarvar </h1>
 
 - 🎓 B.Sc. in Electronic Engineering - [Universidad de Cundinamarca](https://www.ucundinamarca.edu.co) UdeC - Fusagasugá, Colombia.
 - 📚 Ph.D. Scholarship Engineering - [Universidad Nacional del sur](https://www.uns.edu.ar) UNS - Bahia Blanca, Argentina.
