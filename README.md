@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Steven </h1>
 
-![portada_linkedin2](https://github.com/smarvar/smarvar/assets/58561524/eaf3456f-c8a2-407e-9864-061ae8cd29ee)
+![portada_github](https://github.com/smarvar/smarvar/assets/58561524/7484b1ce-4efa-461c-bbde-3100f81e3f93)
+
 
 - 🎓 B.Sc. in Electronic Engineering - [Universidad de Cundinamarca](https://www.ucundinamarca.edu.co) UdeC - Fusagasugá, Colombia.
 - 📚 Ph.D. Student in Engineering - [Universidad Nacional del Sur](https://www.uns.edu.ar) UNS - Bahia Blanca, Argentina.
